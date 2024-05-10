@@ -8,6 +8,7 @@ public class HellowWorld {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Hello");
+		System.out.println("Hi");
 		
 //		String st = sc.next();
 //		int n = sc.nextInt() - 1;
